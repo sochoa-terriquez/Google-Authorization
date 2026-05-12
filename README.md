@@ -1,0 +1,1 @@
+This project uses Python to connect to Google Sheets using authentication credentials. The program authorizes access to a spreadsheet and allows other applications to read from or write data into Google Sheets.  Language used: Python Libraries used: gspread, oauth2client
